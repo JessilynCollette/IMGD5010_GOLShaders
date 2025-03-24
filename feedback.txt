@@ -1,0 +1,8 @@
+Xin Zhang: 
+a. I like the black and white pixels on the canvas. And also the effect of those grids It randomly
+disappears
+b. I saw there are 4 parts in the canvas, which they are all disappear in the same way. It would be
+better If those 4 parts can be shown in a different way.
+c. Creating a visual grid overlay and converting the colors to a modified “black and white”
+d. The use of random colors and transparency for alive cells further enhances the visual appeal,
+making the simulation more vibrant and less predictable
